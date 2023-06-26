@@ -1,11 +1,12 @@
 # CS-255-SystemAnalysisDesign
 
 1.Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
-
+DriverPass is a driving education company looking to get into a niche market.They wanted an application that would help students and people learn how to drive. The app would include digital lessons in multiple media forms as well as exams. Depending on the payment level, they would be able to schedule in person lessons with teachers to further improve their driving ability. 
 2.What did you do particularly well?
-
+I think i did well in identifying areas in which DriverPass will need to invest in high quality personell or software. It was difficult to think about this project purely on paper, but it helped me realize how a solid system is built and that many layers of revision assist in polishing the final product.
 3.If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-
+I would improve the requirements and limitations section. I think i could have elaborated on some more relevant requirements like system compatibility and web-server cache utilization. It was difficult to think about the different requirments for the system because they handle sensitive information. I think going back and adding more information about the kind of system protection and data transfer protocol would have been helpful.
 4.How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
-
+I tried to listen to the use cases and include as many quality of life and user requested functionlity as possible. I think the user can provide a greate deal of information with regards to the usability and flow of a well designed system. People who engage with the app on a daily basis will have a far greater understanding of what the app does well from a user perspective compared to a devloper who doesnt engage in user side aspects. These opinions are important to take into account because they can shed light on system that can be improved within the product.
 5.How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+I try to think about what i want the product to do and how fast i want it to do it. Some systems dont need to be fast as long as they do what they need to do and can handle most errors. Making code that is versatile is important because it can increase uptime on products and limit the amount of system breaking bugs that can occur. In the future I would take a organized agile approach to system design and make to sure to plan out the main system functionality before writing code. This would help to ensure the organization of the system and improve the readiability of the final result.
